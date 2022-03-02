@@ -1,1 +1,2 @@
-My pwd file
+#!/bin/bash
+pwd
