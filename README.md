@@ -1,1 +1,1 @@
-My read me file
+Print the current working directory
