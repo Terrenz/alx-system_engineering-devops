@@ -1,1 +1,1 @@
-A brief description of what this project does and who it's for
+Writing shell direction commands and making them executable files
