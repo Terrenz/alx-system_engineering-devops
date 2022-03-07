@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+echo "0-mac_and_cheese" | cat > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
